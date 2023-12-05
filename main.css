@@ -1,0 +1,134 @@
+.headermain {
+    width: 100%;
+    background-color: rgb(247, 186, 72);
+    height: 50px;
+    text-align: justify;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.rslogo {
+    width: 50px;
+}
+.headermainnav {
+    position: absolute;
+    font-size: 23px;
+    top: 10px;
+    text-align: right;
+    right: 100px;
+
+}
+
+#link-1 {
+    padding-left: 20px;
+    padding-right: 30px;
+
+}
+#link-2 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#link-3 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#link-4 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#link-5 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.sectionmain {
+    width: 100%;
+    height: 81%;
+    position: absolute;
+    top: 9%;
+    left: 0;
+}
+.undermainsection {
+    bottom: 0;
+    width: 100%;
+    height: 130px;
+    background-color: rgba(255, 196, 87, 0.884);
+    position: absolute;
+}
+
+.undernavmain {
+    height: 600px;
+    width: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    display: block;
+    top: 90%;
+    left: 0;
+    
+}
+.sideundermain {
+    height: 80%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    background-color: orange
+
+}
+.sideundermain2 {
+    width: 100%;
+    height: 30px;
+}
+
+
+.borderundermain {
+    background-color: rgb(252, 252, 252);
+    position: absolute;
+    width: 96%;
+    height: 70%;
+    border: solid 1px;
+    border-radius: 10px;
+    left: 2%;
+
+    
+
+}
+
+.divtextunder {
+    position: absolute;
+    height: 100px;
+    width: 95%;
+    left: 2.5%;
+    bottom: 5px;
+    background-color: rgb(250, 119, 71);
+    border: solid 0px;
+    border-radius: 5px;
+}
+
+
+.sidediv1 {
+    height: 100%;
+    width: 30px;
+    left: 0;
+    background-color: orange;
+    position: absolute;
+}
+.sidediv2 {
+    height: 100%;
+    width: 30px;
+    right: 0;
+    background-color: orange;
+    position: absolute;
+}
+.section2 {
+    height: calc(100% - 400px); /* Adjust the height as needed */
+    width: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    display: block;
+    top: 150%;
+    height: 60%;
+    left: 0;
+    background-color: rgb(233, 231, 228); /* Set the background color for the new section */
+}
+
+    
+
